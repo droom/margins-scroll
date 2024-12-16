@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  position: relative;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+.loop {
+  position: relative;
+  height: 100%;
+  width: 97vw;
+  margin: auto;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}

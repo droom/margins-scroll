@@ -1,0 +1,15 @@
+.wordmark {
+  pointer-events: none;
+  perspective: 1000;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 16px 20px;
+/*  width: 100%;*/
+
+
+}
+.wordmark img {
+  width: 100%;
+  margin: 0 auto;
+}

@@ -1,0 +1,26 @@
+footer {
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  left: 0;
+}
+
+footer small {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  color: black;
+  z-index: 9999;
+  padding: 16px 20px;
+  text-transform: uppercase;
+}
+
+footer small.copyright {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  color: black;
+  z-index: 9999;
+  padding: 16px 20px;
+  text-transform: uppercase;
+}
